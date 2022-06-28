@@ -50,12 +50,3 @@ _To start with the Project run the following command in terminal
 
   ![Landing Page](https://miro.medium.com/max/3824/1*niNzUoyrIn9ZVnNckonzDA.png)
 
-
-### Google Drive Link
-https://drive.google.com/file/d/1Am2vHnifvFzCKBEl6qazvqJ-wBV67sdf/view?usp=sharing
-
-
-
-### Netlify Link
-https://myntra1.netlify.app
-
